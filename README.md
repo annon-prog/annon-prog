@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning golang and enjoying the process so far. I enjoy watching dystopian movies and reading novels suring my free time
+I am currently learning golang and enjoying the process so far. I enjoy watching dystopian movies and reading novels during my free time
 
 
 ## 🌐 Socials:
